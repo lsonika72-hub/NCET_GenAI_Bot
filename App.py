@@ -1,5 +1,5 @@
 import streamlit as st
-from greg import Greg
+from groq import Groq
 
 st.set_page_config("PrapgenAI Content Generator", layout="wide")
 st.title("PrapgenAI - Content Generator")
